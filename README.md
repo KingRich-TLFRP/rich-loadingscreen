@@ -3,6 +3,8 @@ This is a modified version of my loading screen: [post](https://forum.cfx.re/t/r
 
 **Preview:** [click](https://cdn.discordapp.com/attachments/505721235163054080/690885769329377300/Screenshot_5.png)
 
+**FiveM Forum Post:** [click](https://forum.cfx.re/t/release-rich-loadingscreen-simple-loading-screen-by-kingrich)
+
 ## License
 
 License
